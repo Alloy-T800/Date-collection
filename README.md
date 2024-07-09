@@ -92,10 +92,6 @@ This tool allows users to input alloy compositions and their respective performa
     ```
 5. Open a pull request.
 
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
 ## Acknowledgments
 
 - [Pandas](https://pandas.pydata.org/)
