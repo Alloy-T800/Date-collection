@@ -32,7 +32,7 @@ This tool allows users to input alloy compositions and their respective performa
 1. Ensure that you have a file named `data_set.xlsx` in the project directory. This file will be used to store and manage alloy data.
 2. Run the main script:
     ```sh
-    python your_script_name.py
+    python data_GUI.py
     ```
 
 ## GUI Overview
