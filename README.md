@@ -16,11 +16,11 @@ This tool allows users to input alloy compositions and their respective performa
 
 1. Clone the repository:
     ```sh
-    git clone https://github.com/your-username/your-repo.git
+    git clone https://github.com/username/repo.git
     ```
 2. Navigate to the project directory:
     ```sh
-    cd your-repo
+    cd repo
     ```
 3. Install the required packages:
     ```sh
